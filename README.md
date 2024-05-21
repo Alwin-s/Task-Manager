@@ -12,7 +12,6 @@ A simple task manager application built with React, Bootstrap, and FontAwesome.
 
 ## Installation
 
-1. Clone the repository:
+1. Live Link:
    ```bash
-   git clone https://github.com/Alwin-s/task-manager
-   cd task-manager
+  https://task-manager46.netlify.app/
