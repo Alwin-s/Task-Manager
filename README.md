@@ -14,5 +14,5 @@ A simple task manager application built with React, Bootstrap, and FontAwesome.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/task-manager.git
+   git clone https://github.com/Alwin-s/task-manager
    cd task-manager
