@@ -2,6 +2,9 @@
 
 A simple task manager application built with React, Bootstrap, and FontAwesome.
 
+## Live Link
+ https://task-manager46.netlify.app/
+
 ## Features
 
 - Add tasks
@@ -10,8 +13,5 @@ A simple task manager application built with React, Bootstrap, and FontAwesome.
 - Mark tasks as done
 - Store tasks in localStorage
 
-## Installation
 
-1. Live Link:
-   ```bash  https://task-manager46.netlify.app/
  
